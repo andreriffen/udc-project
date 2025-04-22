@@ -22,17 +22,17 @@ To develop a multilingual visual prototype (ES/EN/PT) that positions UDC as a le
 
     Directory: %root%\udc-project
 
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d----          22/04/2025    15:19                css
-d----          22/04/2025    15:19                img
-d----          22/04/2025    15:19                js
-d----          22/04/2025    15:19                lib
-d----          22/04/2025    15:19                scss
--a---          22/04/2025    15:18            684 .gitignore
--a---          22/04/2025    13:46          51994 index.html
--a---          22/04/2025    15:18           1094 LICENSE
--a---          22/04/2025    15:18            128 README.md
+    Mode                 LastWriteTime         Length Name
+    ----                 -------------         ------ ----
+    d----          22/04/2025    15:19                css
+    d----          22/04/2025    15:19                img
+    d----          22/04/2025    15:19                js
+    d----          22/04/2025    15:19                lib
+    d----          22/04/2025    15:19                scss
+    -a---          22/04/2025    15:18            684 .gitignore
+    -a---          22/04/2025    13:46          51994 index.html
+    -a---          22/04/2025    15:18           1094 LICENSE
+    -a---          22/04/2025    15:18            128 README.md
 
 ## 🚀 Preview
 
