@@ -44,4 +44,6 @@ Live preview: [andreriffen.github.io/udc-project](https://andreriffen.github.io/
 
 ---
 
-Developed by [André Riffen](https://github.com/andreriffen) – 2025.
+Developed by [Andre Riffen](https://github.com/andreriffen) – 2025.
+
+2025 © FUTURE COMPANY LLC - MIT LICENSE 1.0
