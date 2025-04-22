@@ -40,8 +40,6 @@ Live preview: [andreriffen.github.io/udc-project](https://andreriffen.github.io/
 
 ## 🔒 Notes
 
-- Internal use only for visual tracking (Liz & André).
-- Cristiano **has no access or awareness** of this repository.
 - Subject to changes as needed for façade strategy and institutional staging.
 
 ---
